@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbloxlanesupport=self.webpackChunkbloxlanesupport||[]).push([[845],{5071:l=>{l.exports=JSON.parse('{"label":"hola","permalink":"/support/blog/tags/hola","allTagsPath":"/support/blog/tags","count":1,"unlisted":false}')}}]);
