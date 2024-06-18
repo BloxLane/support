@@ -24,34 +24,20 @@ sidebar_label: Admin Guide
 
 
 
-| Rank |  Admin Level |
+| Rank                | Admin Level          |
+|:-------------------:|:--------------------:|
+| Assistant Supervisor| Moderator            |
+| Floor Supervisor    | Moderator            |
+| Assistant Manager   | Moderator            |
+| Store Manager       | Moderator            |
+| Assistant Manager   | Moderator            |
+| Assistant Director  | Administrator        |
+| Store Director      | Administrator        |
+| Executive Assistant | Administrator        |
+| Store Executive     | Administrator        |
+| Junior Moderator    | Super Administrator  |
+| Senior Moderator    | Super Administrator  |
+| Head Moderator      | Super Administrator  |
+| Store Developer     | Creator              |
+| Group Owner         | Creator              |
 
-| :----: | :----: |
-
-| Assistant Supervisor | Moderator |
-
-| Floor Supervisor | Moderator  |
-
-| Assistant Manager | Moderator  |
-
-| Store Manager | Moderator  |
-
-| Assistant Manager | Moderator  |
-
-| Assistant Director | Administrator |
-
-| Store Director | Administrator |
-
-| Executive Assistant | Administrator |
-
-| Store Executive | Administrator |
-
-| Junior Moderator | Super Administrator |
-
-| Senior Moderator | Super Administrator |
-
-| Head Moderator | Super Administrator |
-
-| Store Developer | Creator |
-
-| Group Owner | Creator |
