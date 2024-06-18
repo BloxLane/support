@@ -20,9 +20,11 @@ sidebar_label: Admin Guide
 # <font color='#fa0000'>1 | Commands</font>
 ## 1A | Permission Levels
 
-| Rank |  Admin Level|
 
-|:----------------------:  |:--------------------:  |
+
+| Rank |  Admin Level |
+
+|:----------------------:  |:--------------------:|
 
 | Assistant Supervisor | Moderator |
 
