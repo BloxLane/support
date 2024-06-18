@@ -41,3 +41,5 @@ sidebar_label: Admin Guide
 | Store Developer     | Creator              |
 | Group Owner         | Creator              |
 
+![alt text](image.png)
+
