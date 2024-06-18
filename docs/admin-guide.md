@@ -17,10 +17,8 @@ sidebar_label: Admin Guide
 
 
 <font  color='#ffffff' size='6'> Written by PostedDevOfficial</font>
-*Group Owner, BSA developer*
 
-# <font color='#fa0000'>1 | Commands</font>
-## 1A | Permission Levels
+*Group Owner, BSA developer*
 
 # <font  color='#fa0000'>1 | Commands</font>
 
