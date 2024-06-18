@@ -44,7 +44,7 @@ sidebar_label: Admin Guide
 
 Depending on your role, you will only be able to perform certain actions. For Example, Moderators cannot run :pban but Super Administrators can.
 
-##1B | Executing commands
+## 1B | Executing commands
 
 When executing commands, you must take care to ensure that you are doing it correctly. Running commands in public chat is ***NOT ALLOWED***.
 
