@@ -24,7 +24,7 @@ sidebar_label: Admin Guide
 
 | Rank |  Admin Level |
 
-|:----------------------:| |:--------------------:|
+| :----: | :----: |
 
 | Assistant Supervisor | Moderator |
 
