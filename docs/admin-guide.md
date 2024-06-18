@@ -6,11 +6,11 @@ sidebar_label: Admin Guide
 
 
 ![Bl](https://bloxlane.devs-stuff.me/assets/img/bag.png)  <font  color='#fa0000' size='20'> **B**loxlane **S**ystem **A**dmin</font>
-<font  color='#bf0000' size='20'> Guidelines</font>
+<font  color='#ffffff' size='20'> Guidelines</font>
 
 
-<u><font  color='#000000' size='5'>**TSA Info**</font></u>
-<font  color='#000000' size='4'>A modified version of the Basic Admin Essentials command system, modified to work with the BloxLane HTTP API, anti-exploits, and more. Created by PostedDevOfficial</font>
+<u><font  color='#ffffff' size='5'>**TSA Info**</font></u>
+<font  color='#ffffff' size='4'>A modified version of the Basic Admin Essentials command system, modified to work with the BloxLane HTTP API, anti-exploits, and more. Created by PostedDevOfficial</font>
 
 
 
