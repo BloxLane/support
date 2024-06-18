@@ -5,19 +5,19 @@ sidebar_label: Admin Guide
 ---
 
 
-![Bl](https://bloxlane.devs-stuff.me/assets/img/bag.png)  <font  color='#fa0000' size=20> **B**loxlane **S**ystem **A**dmin
-<font  color='#bf0000' size=20> Guidelines
+![Bl](https://bloxlane.devs-stuff.me/assets/img/bag.png)  <font  color='#fa0000' size=20> **B**loxlane **S**ystem **A**dmin</font>
+<font  color='#bf0000' size=20> Guidelines</font>
 
 
-<u><font  color='#000000' size=5>**TSA Info**</u>
-<font  color='#000000' size=4>A modified version of the Basic Admin Essentials command system, modified to work with the BloxLane HTTP API, anti-exploits, and more. Created by PostedDevOfficial
+<u><font  color='#000000' size=5>**TSA Info**</u></font>
+<font  color='#000000' size=4>A modified version of the Basic Admin Essentials command system, modified to work with the BloxLane HTTP API, anti-exploits, and more. Created by PostedDevOfficial</font>
 
 
 
-<font  color='#000000' size=6> Written by PostedDevOfficial
+<font  color='#000000' size=6> Written by PostedDevOfficial</font>
 *Group Owner, BSA developer*
 
-# <font color='#fa0000'>1 | Commands
+# <font color='#fa0000'>1 | Commands</font>
 ## 1A | Permission Levels
 
 | Rank |  Admin Level|
