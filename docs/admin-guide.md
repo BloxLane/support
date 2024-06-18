@@ -20,7 +20,10 @@ sidebar_label: Admin Guide
 
 *Group Owner, BSA developer*
 
+
+
 # <font  color='#fa0000'>1 | Commands</font>
+
 
 ##  1A | Permission Levels
 | Rank | Admin Level |
