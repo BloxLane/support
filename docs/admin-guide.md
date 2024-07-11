@@ -68,6 +68,8 @@ As mentioned at the start of this document, TSA features a built in Anti-Exploit
 
 Whenever an exploiter is detected, a hint gui will appear at the top of all the players in the game screen, and show details of the exploiter, and the action that the system will take. 
 
+All users have a two strike system. Strike one is a kick and Strike 2 is a pban.
+
 All detected exploits can be viewed with the :exploitlogs command. 
 **Please do not stay under the impression that :exploitlogs will show exploiters who are currently in the server, and show what they are doing. The system cannot detect everything, and only logs when an exploiter is automatically banned.**
 
@@ -82,12 +84,12 @@ In this scenario, the JMs+ kindly request that **you do not spam ping us, dm us 
 A simple fix may just be that you need to rejoin. If a server shuts down, lots of people rejoining at exactly the same time can overload the system, and may cause your admin loading to be delayed, or just completely aborted. For this reason, we request that you **wait a few minutes** before rejoining, or **just simply rejoin**.
 
 # <font  color='#fa0000'>4 | Acceptable Usage</font>
-This is the main section of this document. It will outline everything that you can and cannot do with your admin commands.
 
 All Major admin abuse (Running :pban all etc) is **logged** and will result in an instant punishment! The command will be instantly canceled, and developers notified: 
+
 ![za aa detector](image.png)
 
-# <font  color='#fa0000'>4 | Conclusion</font>
+# <font  color='#fa0000'>5 | Conclusion</font>
 
 Thank you for reading this document!
 
