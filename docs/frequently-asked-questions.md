@@ -45,8 +45,8 @@ Store Manager+ may train at training sessions. Executive Assistant+ have the aut
 ### <font color="#C21807">How can I earn points?</font>
 Staff members can earn one point for each successful restock, two points for each spill cleaned, two points for working at any department with POS systems, and three points for working at the main registers.
 
-### <font color="#C21807">What are BloxStreet’s uniform policies?</font>
-In order to learn more about BloxStreet’s uniform policies, we encourage you to visit [Staff Regulations](https://support.bloxlane.devs-stuff.me/lr+-information/staff-regulations.html).
+### <font color="#C21807">What are BloxLane’s uniform policies?</font>
+In order to learn more about BloxLane’s uniform policies, we encourage you to visit [Staff Regulations](https://support.bloxlane.devs-stuff.me/lr+-information/staff-regulations.html).
 
 ### <font color="#C21807">Are LRs and MRs required to use grammar?</font>
 LRs and MRs are not required to use grammar. However, Store Managers must utilize grammar in the Training Center.
@@ -88,10 +88,10 @@ In the event that an SHR is conducting an investigation into a community member,
 Intentionally copying official BloxLane materials, encompassing, but not limited to, our forms, guides, documents, server layout, GFX, and game, may lead to, at the very least, a termination, a staff blacklist, and/or a ban from the BloxLane Discord server. Neglecting to report such plagiarism despite being aware can also lead to consequences. It is expected that establishments throughout Roblox foster originality, which prohibits the replication of BloxLane’s resources for personal gain.
 
 ### <font color="#C21807">Can I play BloxLane on an alternate account?</font>
-Staff members are allowed to utilize alternate accounts for roleplaying purposes as a Customer, LR, or MR. However, it is strictly prohibited for staff members to attain an HR rank through any means on their alternate accounts. Failure to adhere to BloxStreet’s guidelines while using an alternate account will lead to consequences for both the main and alternate accounts. Furthermore, players who use an alternate account to bypass a blacklist or permanent ban will be permanently banned.
+Staff members are allowed to utilize alternate accounts for roleplaying purposes as a Customer, LR, or MR. However, it is strictly prohibited for staff members to attain an HR rank through any means on their alternate accounts. Failure to adhere to BloxLane’s guidelines while using an alternate account will lead to consequences for both the main and alternate accounts. Furthermore, players who use an alternate account to bypass a blacklist or permanent ban will be permanently banned.
 
 ### <font color="#C21807">I purchased a BloxLane product, and I am not satisfied with it. Can I receive a refund?</font>
-BloxStreet has a strict no-refund policy for all purchases, regardless of the item or product, including points, in-game cash, and game passes. It is essential to keep this policy in mind before making any purchases.
+BloxLane has a strict no-refund policy for all purchases, regardless of the item or product, including points, in-game cash, and game passes. It is essential to keep this policy in mind before making any purchases.
 
 ### <font color="#C21807">Where can I report bugs and provide suggestions?</font>
 In order to report bugs and provide suggestions, visit [this link](https://discord.com/channels/1137472904179748904/1149810625258729612).
@@ -120,5 +120,5 @@ In order to get unbanned from BloxLane’s Discord server, submit an appeal thro
 ### <font color="#C21807">Where can I find my appeal result?</font>
 In order to find your appeal result, join the [BloxLane Staffing Support server](https://discord.gg/CnaQrfDqm7) and head to the [#appeal-status](https://discord.com/channels/1157430484243054602/1157430767090139187) channel.
 
-### <font color="#C21807">Can I become a developer or a moderator for BloxStreet?</font>
+### <font color="#C21807">Can I become a developer or a moderator for BloxLane?</font>
 No.
